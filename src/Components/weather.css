@@ -1,0 +1,42 @@
+body{
+    background-color: #1b1b1b;
+}
+h1{
+    color: #fff;
+}
+input{
+    border-style: none;
+
+}
+.card1{
+    background-color: blueviolet;
+    color: #fff;
+}
+.card2{
+    background-color: rgba(255, 153, 0, 0.986);
+    color: #fff;
+}
+.card3{
+    background-color: rgb(255, 3, 163);
+    color: #fff;
+}
+.card4{
+    background-color: rgb(55, 243, 3);
+    color: #fff;
+}
+.card5{
+    background-color: rgb(6, 255, 201);
+    color: #fff;
+}
+.card6{
+    background-color: rgb(246, 9, 9);
+    color: #fff;
+}
+.card7{
+    background-color: rgb(8, 76, 248);
+    color: #fff;
+}
+.card8{
+    background-color: rgb(78, 55, 100);
+    color: #fff;
+}
