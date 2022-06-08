@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
 import ShowTemp from "./showTemp";
-import './weather.css';
+import "./weather.css";
+
 function Weather() {
   const [city, setCity] = useState("");
   const [data, setData] = useState({
@@ -37,7 +38,7 @@ function Weather() {
   return (
     <>
       <div className="container text-center my-2 ">
-        <h1 >Weather App Using React JS</h1>
+        <h1>Weather App Using React JS</h1>
         <input
           type="text"
           className="from-control form-control-lg mt-3"
